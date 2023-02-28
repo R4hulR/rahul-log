@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Rahul Ray",
-    image: "/selfimg.jpeg", // If you want to create your own notion avatar
+    image: "/notionavt.svg", // If you want to create your own notion avatar
     role: "Coder",
     bio: "I Code And Stuff",
     email: "R4hulR@protonmail.com",
